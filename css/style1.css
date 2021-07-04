@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+body{
+    width: 70%;
+    margin: 30px auto;
+    text-align: center;
+}
+button{
+    cursor: pointer;    
+    width: 100%;
+    margin: 30px auto;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 30px 0;
+}
+input{
+    display: inline;
+    width: 70px;
+    margin: 0 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+label{
+    margin: 0 30px;
+}
+
+#BT2 button{
+    width: 20%;
+}
